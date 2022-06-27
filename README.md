@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kirvaland
-- 👀 I’m interested in electronic stuff
+- 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   undalmustafa@gmail.com
 
