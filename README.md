@@ -5,6 +5,6 @@
   undalmustafa@gmail.com
 
 <!---
-kirvaland/kirvaland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+undalmustafa/undalmustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
